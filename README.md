@@ -1,8 +1,12 @@
 # COB #WebDevelopment
-
+- Phase 1 Project 1: `/Phase 1/Registration form`
+- Phase 1 Project 2: `/Phase 1/ToDolist`
+- Phase 2 Project 1: `/Phase 2/unit converter app`
+- Phase 2 Project 2: `/Phase 2/SofaVogue E-commerce landing page`
+  
 # Project Repository: Phase 1 and Phase 2
 
-Welcome to the project repository for Phase 1 and Phase 2! This repository contains three distinct projects, each focusing on different aspects of web development. Below, you'll find a brief overview of each project:
+Welcome to the project repository for Phase 1 and Phase 2! This repository contains four distinct projects, each focusing on different aspects of web development. Below, you'll find a brief overview of each project:
 
 ## Phase 1 Projects
 
@@ -16,20 +20,79 @@ The second project in Phase 1 is a responsive To-Do List created with HTML, CSS,
 
 ## Phase 2 Project
 
-### Project 1: Unit Converter
+### Project 2: Unit Converter
 
-In Phase 2, we have a responsive unit converter project. This project combines HTML for structure, CSS for styling and responsiveness, and JavaScript for the conversion functionality. Users can select different units, input values, and click a calculate button to get the converted result. There's also a reset button to clear previous calculations and return to default settings. The unit converter uses conversion formulas to provide accurate results.
+In Phase 2, we have a responsive unit converter project. This project combines HTML for structure, CSS for styling and responsiveness, and JavaScript for the conversion functionality. Users can select different units give input values, and click a calculate button to get the converted result. There's also a reset button to clear previous calculations and return to default settings. The unit converter also showcases the use of conversion formulas to provide accurate results.
 
-## How to Use These Projects
+### Project 1: E-commerce landing page
 
-Each project is contained in its respective directory within this repository. You can navigate to the individual project directories to find the source code and assets.
+![SofaVogue E-commerce Landing Page](assets/header.jpg)
 
-For example:
-- Phase 1 Project 1: `/phase-1/project-1-registration-form`
-- Phase 1 Project 2: `/phase-1/project-2-todo-list`
-- Phase 2 Project 1: `/phase-2/project-1-unit-converter`
+This project is a responsive landing web page designed for an e-commerce website specializing in modern and minimalist interior furniture. Below, you'll find information about the project's functionality, structure, and how to get started.
 
-You can clone this repository to your local machine and open the project directories in your preferred code editor to explore, modify, or run the projects.
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Project Structure](#project-structure)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [License](#license)
+
+## Project Overview
+
+The SofaVogue E-commerce Landing Page is a modern and visually appealing web page designed to showcase furniture and interior design services. It offers the following functionality:
+
+- Responsive design for various screen sizes.
+- Navigation menu with smooth scrolling to different sections.
+- Search bar for furniture search.
+- Testimonials section with a swiper for displaying customer reviews.
+- Latest blog section.
+- Newsletter subscription form.
+- Social media and contact links in the footer.
+
+## Project Structure
+
+The project consists of the following main sections:
+
+1. **Header**: The header section contains the website's logo, navigation links, a search bar, and a call-to-action button.
+
+2. **Why Choose Us**: This section highlights the reasons to choose SofaVogue, with icons and descriptions.
+
+3. **Intelligent Deals**: Features exclusive offers and promotions with a grid of images and an "Explore Now" button.
+
+4. **Crafted from Exceptional Materials**: Showcases individual furniture items with images, descriptions, and "Add to Cart" buttons.
+
+5. **Elevate Your Space with Contemporary Interior Design**: Presents contemporary interior design services with icons and descriptions.
+
+6. **Testimonials**: Displays customer testimonials using a swiper for smooth sliding between reviews.
+
+7. **Latest Blog**: Showcases the latest blog posts with images and publication details.
+
+8. **Footer**: Contains a newsletter subscription form, logo, copyright information, and navigation links.
+
+## Technologies Used
+
+The project uses the following technologies and libraries:
+
+- HTML
+- CSS
+- JavaScript
+- Swiper.js (for testimonials)
+- ScrollReveal.js (for animations)
+
+  
+---
+
+
+Thank you for checking out the SofaVogue E-commerce Landing Page project. If you have any questions or need further assistance, please feel free to [contact us](mailto:contact@sofavogue.com).
+
+You can clone this repository to your local machine and open the project directories in your preferred code editor to explore, modify, or run the projects by running the below command.
+
+To clone this repository to your local machine.
+
+   ```shell
+   git clone https://github.com/Geekykiran/Coding-Raja-Technologies-Internship-Task-2-Music-Player.git
+   ```
 
 ## Contributions
 
