@@ -82,7 +82,7 @@ The project uses the following technologies and libraries:
 ## Getting Started
 You can clone this repository to your local machine and open the project directories in your preferred code editor to explore, modify, or run the projects by running the below command.
 
-To clone this repository to your local machine.
+To clone this repository to your local machine instal git and run this code in the command shell.
 
    ```shell
    git clone https://github.com/Geekykiran/COB-WebDevelopment.git
