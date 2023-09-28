@@ -10,21 +10,21 @@ Welcome to the project repository for Phase 1 and Phase 2! This repository conta
 
 ## Phase 1 Projects
 
-### Project 1: Responsive Registration/SignUp Form
+### Project 1: Registration/SignUp Form
 
 This project involves creating a responsive Registration/SignUp form using HTML, JavaScript, and CSS. The form includes various fields such as first name, last name, Date of Birth, Phone Number, Username, Email, password, address, gender, and more. Users can fill in their information, and there is a register button to complete the sign-up process.
 
-### Project 2: Responsive To-Do List
+### Project 2: To-Do List
 
 The second project in Phase 1 is a responsive To-Do List created with HTML, CSS, and JavaScript. This To-Do List not only displays the current date but also allows users to add tasks to the list. It provides editing and deleting functionality for managing the list of tasks as they are completed.
 
 ## Phase 2 Project
 
-### Project 2: Unit Converter
+### Project 1: Unit Converter
 
 In Phase 2, we have a responsive unit converter project. This project combines HTML for structure, CSS for styling and responsiveness, and JavaScript for the conversion functionality. Users can select different units give input values, and click a calculate button to get the converted result. There's also a reset button to clear previous calculations and return to default settings. The unit converter also showcases the use of conversion formulas to provide accurate results.
 
-### Project 1: E-commerce landing page
+### Project 2: E-commerce landing page
 
 ![SofaVogue E-commerce Landing Page](assets/header.jpg)
 
@@ -36,7 +36,6 @@ This project is a responsive landing web page designed for an e-commerce website
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [License](#license)
 
 ## Project Overview
 
@@ -79,25 +78,25 @@ The project uses the following technologies and libraries:
 - JavaScript
 - Swiper.js (for testimonials)
 - ScrollReveal.js (for animations)
-
   
 ---
 
-
-Thank you for checking out the SofaVogue E-commerce Landing Page project. If you have any questions or need further assistance, please feel free to [contact us](mailto:contact@sofavogue.com).
-
+## Getting Started
 You can clone this repository to your local machine and open the project directories in your preferred code editor to explore, modify, or run the projects by running the below command.
 
 To clone this repository to your local machine.
 
    ```shell
-   git clone https://github.com/Geekykiran/Coding-Raja-Technologies-Internship-Task-2-Music-Player.git
+   git clone https://github.com/Geekykiran/COB-WebDevelopment.git
    ```
+
+Thank you for checking out the SofaVogue E-commerce Landing Page project. If you have any questions or need further assistance, please feel free to [contact us](mailto:contact@sofavogue.com).
 
 ## Contributions
 
 Contributions are welcome! If you have any ideas for improvements or new features for any of the projects, please feel free to fork this repository, make your changes, and submit a pull request.
 
 Thank you for checking out our Phase 1 and Phase 2 projects. We hope you find them useful and informative. If you have any questions or need assistance, don't hesitate to reach out.
+
 
 Happy coding!
