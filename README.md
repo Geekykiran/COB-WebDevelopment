@@ -26,7 +26,7 @@ In Phase 2, we have a responsive unit converter project. This project combines H
 
 ### Project 2: E-commerce landing page
 
-![SofaVogue E-commerce Landing Page](assets/header.jpg)
+![SofaVogue E-commerce Landing Page](Phase 2/SofaVogue E-commerce landing page/assets/header.jpg)
 
 This project is a responsive landing web page designed for an e-commerce website specializing in modern and minimalist interior furniture. Below, you'll find information about the project's functionality, structure, and how to get started.
 
